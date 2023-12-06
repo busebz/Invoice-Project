@@ -1,0 +1,35 @@
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Products.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Campaigns.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Categories.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.CampaignDetail.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Account.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Invoice.resources
+C:\Users\Busenur BOZ\Desktop\StajProje\StajProje\obj\Debug\StajProje.Formlar.Invoicelines.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\bin\Debug\StajProje.exe.config
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\bin\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\bin\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Account.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.CampaignDetail.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Campaigns.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Categories.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Invoice.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Invoicelines.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Formlar.Products.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\SINIFINA GÖRE OKUL\3.sınıf\1.DÖNEM\StajProje\StajProje\obj\Debug\StajProje.pdb

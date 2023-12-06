@@ -1,0 +1,34 @@
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\bin\Debug\StajProje.exe.config
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\bin\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\bin\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Account.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.CampaignDetail.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Campaigns.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Categories.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Invoice.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Invoicelines.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Products.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\InvoiceProject\InvoiceProject\obj\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\bin\Debug\StajProje.exe.config
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\bin\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\bin\Debug\StajProje.pdb
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.AssemblyReference.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Account.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.CampaignDetail.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Campaigns.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Categories.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Invoice.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Invoicelines.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Form1.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Formlar.Products.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.Properties.Resources.resources
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.GenerateResource.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\InvoiceProject.csproj.CoreCompileInputs.cache
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.exe
+C:\Users\Busenur BOZ\Desktop\VISUAL STUDIO\InvoiceProject\InvoiceProject\obj\Debug\StajProje.pdb
