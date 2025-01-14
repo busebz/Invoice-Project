@@ -26,11 +26,28 @@ For this project, there are 2 software tools, .NET Windows Forms and Microsoft S
 <h1 id="3">How to use</h1>
 <h3>Installation</h3>
 <ol>
-  <li>Create a Visual Studio Backend project.</li>
-  <li>Fill the sql tables with excel file that I added.</li>
-  <li>Create a Visual Studio .NET Framework.</li>
-  <li>In the App.config file, set your database info.</li>
-  <li>Run the app.</li>
+  <li><strong>Backend Setup:</strong>
+    <ul>
+      <li>Create a new backend project in Visual Studio.</li>
+      <li>Populate the SQL tables using the provided Excel file (<code>Data.xlsx</code>).</li>
+    </ul>
+  </li>
+  <li><strong>Frontend Setup:</strong>
+    <ul>
+      <li>Create a new .NET Framework project in Visual Studio.</li>
+    </ul>
+  </li>
+  <li><strong>Database Configuration:</strong>
+    <ul>
+      <li>Open the <code>App.config</code> file in your project.</li>
+      <li>Update the database connection string with your specific details (server name, database name, credentials).</li>
+    </ul>
+  </li>
+  <li><strong>Run the Application:</strong>
+    <ul>
+      <li>Build and run the application in Visual Studio.</li>
+    </ul>
+  </li>
 </ol>
 
 Excel file: [Data.xlsx](https://github.com/busebz/Invoice-Project/files/13590124/Data.xlsx)
